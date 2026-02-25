@@ -36,7 +36,6 @@ In your `Main` class, create a mix of `Student` and `Instructor` objects, store 
 - All classes require a constructor
 - `Person` must be abstract
 - `getSummary()` must be overridden in each subclass
-- No `instanceof` checks in your loop
 
 ---
 
